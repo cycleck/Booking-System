@@ -1,0 +1,13 @@
+﻿“小学期.exe”(Win32): 已加载“D:\c语言程序\小学期\Debug\小学期.exe”。已加载符号。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+线程 0x4344 已退出，返回值为 0 (0x0)。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“小学期.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+线程 0x4444 已退出，返回值为 0 (0x0)。
+线程 0x364c 已退出，返回值为 0 (0x0)。
+程序“[10024] 小学期.exe”已退出，返回值为 0 (0x0)。
