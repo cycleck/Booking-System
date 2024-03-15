@@ -1,0 +1,12 @@
+﻿  主函数.cpp
+  登录函数.cpp
+  管理员航班查询及添加.cpp
+  正在生成代码...
+c:\users\pc\desktop\小学期最终版\小学期\管理员航班查询及添加.cpp(308): warning C4172: 返回局部变量或临时变量的地址: Now
+c:\users\pc\desktop\小学期最终版\小学期\管理员航班查询及添加.cpp(121): warning C4172: 返回局部变量或临时变量的地址: Place
+c:\users\pc\desktop\小学期最终版\小学期\管理员航班查询及添加.cpp(153): warning C4172: 返回局部变量或临时变量的地址: Place
+c:\users\pc\desktop\小学期最终版\小学期\管理员航班查询及添加.cpp(160): warning C4172: 返回局部变量或临时变量的地址: In
+c:\users\pc\desktop\小学期最终版\小学期\管理员航班查询及添加.cpp(176): warning C4172: 返回局部变量或临时变量的地址: Place
+c:\users\pc\desktop\小学期最终版\小学期\管理员航班查询及添加.cpp(196): warning C4172: 返回局部变量或临时变量的地址: In
+c:\users\pc\desktop\小学期最终版\小学期\管理员航班查询及添加.cpp(209): warning C4172: 返回局部变量或临时变量的地址: Place
+  小学期.vcxproj -> C:\Users\pc\Desktop\小学期最终版\Debug\小学期.exe
